@@ -1,0 +1,4 @@
+# Parrhall.com content 
+
+This repository contains the source content files as used in the parrhall.com site. The full site may be viewed [here](!#).
+
